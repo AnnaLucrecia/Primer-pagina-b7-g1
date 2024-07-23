@@ -1,0 +1,59 @@
+body {
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: "images/back.jpg";
+}
+
+.image {
+    border: 5px solid #000;
+}
+
+#title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+border {
+    border: 15px solid #000;
+}
+
+.inline {
+    display: inline;
+}
+
+#intro {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.texto-centrado {
+    text-align: center;
+}
+
+/*Los id solo aplica a un elemento en el sitio, no se repiten*/
+#manga-id {
+    border: 10px solid #000;
+}
+
+
+#navegacion {
+    display: inline;
+}
+
+
+/* Selector combinado
+Aqui podemos combinar mas de una opcion para ir filtrando mis etiquetas*/
+
+#navegacion li {
+    display: inline;
+}
+
+footer {
+    text-align: left;
+}
+
+* {
+    font-family: "Gill Sans", sans-serif;
+}
